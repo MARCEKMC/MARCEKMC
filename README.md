@@ -63,17 +63,9 @@ I care about the things that separate code that works from code that scales: **s
 <div align="center">
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MARCEKMC&theme=github_dark" height="185" alt="GitHub Stats"/>
+<img src="https://raw.githubusercontent.com/MARCEKMC/MARCEKMC/output/card-stats.svg" height="200" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MARCEKMC&theme=github_dark" height="185" alt="Top Languages by Repo"/>
-
-<br>
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MARCEKMC/MARCEKMC/output/calendar-dark.svg">
-  <img src="https://raw.githubusercontent.com/MARCEKMC/MARCEKMC/output/calendar-light.svg" width="747" alt="Contribution calendar"/>
-</picture>
+<img src="https://raw.githubusercontent.com/MARCEKMC/MARCEKMC/output/card-langs.svg" height="200" alt="Top Languages by Repo"/>
 
 <br>
 <br>
